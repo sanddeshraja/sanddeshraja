@@ -2,7 +2,7 @@
 <h3 align="center">Currently pursuing my Bachelors in Information Science</h3>
 
 
-- 🌱 I’m currently learning **Java, and React**
+- 🌱 I’m currently learning **Java, and Spring Boot**
 
 - 📫 How to reach me **sanddeshraja@gmail.com**
 
