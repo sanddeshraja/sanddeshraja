@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **sanddeshraja@gmail.com**
 
-- 📄 Know about my experiences, [RESUME](https://drive.google.com/file/d/1XlSmxhGBEmQze5fI7M_7dfuEi1BsSLwb/view?usp=sharing)
+- 📄 Know about my experiences, [RESUME](https://drive.google.com/file/d/1iw6UzPM1VG3Oop7-1sE5ykswPx28Xs0b/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
