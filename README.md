@@ -2,11 +2,11 @@
 <h3 align="center">Currently pursuing my Bachelors in Information Science</h3>
 
 
-- 🌱 I’m currently learning **Java, and Spring Boot**
+- 🌱 SDE @ LeadSquared
 
 - 📫 How to reach me **sanddeshraja@gmail.com**
 
-- 📄 Know about my experiences, [RESUME](https://drive.google.com/file/d/1S9z4aSm4OD_xu_MZCQwU5ic91eQNvp2s/view?usp=share_link)
+- 📄 Know about my experiences, [RESUME](https://drive.google.com/file/d/1XlSmxhGBEmQze5fI7M_7dfuEi1BsSLwb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
