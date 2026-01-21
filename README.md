@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanddesh Raja L S</h1>
-<h3 align="center">Currently pursuing my Bachelors in Information Science</h3>
+<h3 align="center">SDE @ LeadSquared</h3>
 
 
-- 🌱 SDE @ LeadSquared
+- 🌱 Backend Engineering with Spring Boot, Postgres, Redis, Elastic Search
 
 - 📫 How to reach me **sanddeshraja@gmail.com**
 
