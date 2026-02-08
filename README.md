@@ -4,9 +4,9 @@
 
 - 🌱 Backend Engineering with Spring Boot, Postgres, Redis, Elastic Search
 
-- 📫 How to reach me **sanddeshraja@gmail.com**
+- 📫 How to reach me **sanddeshrajals.dev@gmail.com**
 
-- 📄 Know about my experiences, [RESUME](https://drive.google.com/file/d/1iw6UzPM1VG3Oop7-1sE5ykswPx28Xs0b/view?usp=sharing)
+- 📄 Know about my experiences, [RESUME](https://drive.google.com/file/d/16HOQPsmGBT80GVypTu-2AJ-qvjrpskQZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
